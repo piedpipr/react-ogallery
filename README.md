@@ -1,6 +1,6 @@
 # React Gallery App
 ## Features
-1. Dyanimc Grid
+1. Dynamic Grid
 2. Beautiful Animations
 3. Select Multiple Images
 4. Delete Multiple Images
