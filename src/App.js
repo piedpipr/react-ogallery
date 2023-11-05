@@ -163,6 +163,12 @@ const StyledCard = styled.div`
     height: auto;
     width: 80vw;
     background-color: white;
+    @media screen and (max-width: 1024px){
+      width: 92vw;
+    }
+    @media screen and (max-width: 768px){
+      width: 92vw;
+    }
 `;
 const StyledAddIcon = styled.div`
     display: grid;
