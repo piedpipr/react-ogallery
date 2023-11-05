@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# React Gallery App
+## Features
+1. Dyanimc Grid
+2. Beautiful Animations
+3. Select Multiple Images
+4. Delete Multiple Images
+5. Open Image in Modal
+6. Add Image [In Future Implementation Pipeline]
+## Gallery Grid
+![screencapture-demo-protik-me-2023-11-05-19_38_08](https://github.com/piedpipr/react-ogallery/assets/43669876/a59176d6-7b95-491e-a9e3-b4a807e37693)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Select and Delete Images
+![screencapture-demo-protik-me-2023-11-05-19_39_14](https://github.com/piedpipr/react-ogallery/assets/43669876/577f7f61-3294-4f53-9574-00eaf1ef9c87)
+
+## Open Image in immersive Modal
+![image](https://github.com/piedpipr/react-ogallery/assets/43669876/fc301f37-5504-4286-bd81-ce84710be1da)
 
 ## Available Scripts
 
